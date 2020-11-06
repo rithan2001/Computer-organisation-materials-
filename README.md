@@ -1,4 +1,4 @@
-# [C++ links](README.md): computer architecture
+#(README.md): computer architecture
 
 See also: [Assembly (Arm)](assembly.arm.md), [Assembly (RISC-V)](assembly.riscv.md), [Assembly (x86)](assembly.x86.md)
 
